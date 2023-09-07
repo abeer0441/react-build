@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4934d99a.css",
+    "main.js": "/static/js/main.b5968b91.js",
+    "static/media/Background.png": "/static/media/Background.6736a1ae576d484bf6e8.png",
+    "static/media/NWC-Logo.svg": "/static/media/NWC-Logo.7f823c951e6f0c1cab7b3dc174a7833b.svg",
+    "index.html": "/index.html",
+    "main.4934d99a.css.map": "/static/css/main.4934d99a.css.map",
+    "main.b5968b91.js.map": "/static/js/main.b5968b91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4934d99a.css",
+    "static/js/main.b5968b91.js"
+  ]
+}
